@@ -20,10 +20,6 @@ It allows users to:
 
 ---
 
-## 📸 Screenshots
-> You can add interface images here later
-
----
 
 ## 🚀 How to Run
 
