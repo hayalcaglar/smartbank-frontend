@@ -1,12 +1,40 @@
-# React + Vite
+# 💼 SmartBank Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SmartBank is a frontend interface for a digital banking simulation project, built with **React 18 + Tailwind CSS**.
 
-Currently, two official plugins are available:
+It allows users to:
+- ✅ Login securely with JWT token
+- ✅ View their account balance
+- ✅ Transfer money to other users
+- ✅ View transaction history
+- ✅ Logout and auto-logout when token expires
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧰 Technologies
+- React 18
+- React Router DOM
+- Tailwind CSS
+- Axios
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshots
+> You can add interface images here later
+
+---
+
+## 🚀 How to Run
+
+```bash
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+
+# Open in browser
+http://localhost:5173/
+Make sure your backend API is running on:
+https://localhost:7116
